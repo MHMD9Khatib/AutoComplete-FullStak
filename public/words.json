@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "first_name": "Clareta",
+    "last_name": "Zanetti",
+    "email": "czanetti0@so-net.ne.jp",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Lazaro",
+    "last_name": "Broszkiewicz",
+    "email": "lbroszkiewicz1@edublogs.org",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Junie",
+    "last_name": "Benbough",
+    "email": "jbenbough2@i2i.jp",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Eldridge",
+    "last_name": "MacLure",
+    "email": "emaclure3@sina.com.cn",
+    "gender": "Polygender"
+  },
+  {
+    "id": 5,
+    "first_name": "Emmye",
+    "last_name": "Kunes",
+    "email": "ekunes4@plala.or.jp",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Con",
+    "last_name": "Craster",
+    "email": "ccraster5@sakura.ne.jp",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Eran",
+    "last_name": "Greenshiels",
+    "email": "egreenshiels6@quantcast.com",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "first_name": "Perry",
+    "last_name": "Holley",
+    "email": "pholley7@vkontakte.ru",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Myles",
+    "last_name": "Joliffe",
+    "email": "mjoliffe8@state.tx.us",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Dennison",
+    "last_name": "Boniface",
+    "email": "dboniface9@about.me",
+    "gender": "Male"
+  },
+  {
+    "id": 11,
+    "first_name": "Kaylee",
+    "last_name": "Hawthorn",
+    "email": "khawthorna@cocolog-nifty.com",
+    "gender": "Female"
+  }
+]
