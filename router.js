@@ -47,7 +47,7 @@ const router = (request, response) => {
     const toSearch = query.split("=")[1].trim();
     console.log(query);
     if (toSearch.length) {
-        result = data.filter((e) => e.first_name.includes(toSearch));
+        result = data.filter((e) => e.first_name.toLowerCase().startsWith(toSearch.toLowerCase(), 0));
 
     }
 
